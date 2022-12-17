@@ -1,4 +1,4 @@
-# Casestudy
+# BellaBeat- Usage Trend Analysis
 
 ## Editing the file
 
